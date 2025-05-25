@@ -8,7 +8,7 @@ const StudentDashboard: React.FC = () => {
       <div className="flex items-center justify-center bg-white">
         <div className="bg-white p-8 rounded-lg shadow-lg w-full max-w-md border-2 border-solid">
           <h2 className="text-2xl font-bold mb-6 text-center">Главное меню студента</h2>
-          <p className="text-center">Добро пожаловать, студент!</p>
+          <p className="text-center">Добро пожаловать, Адиль гей!</p>
           {/* Здесь можно добавить функционал для студента */}
         </div>
       </div>
